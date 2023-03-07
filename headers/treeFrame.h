@@ -8,5 +8,4 @@ class TreeFrame : public Frame {
 public:
     void focus() override;
     void loadBuffer() override;
-    void update();
 };
